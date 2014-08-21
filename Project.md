@@ -7,3 +7,8 @@ Objective:
 "An app to celebrate and bring together the cultural sector of SF. Features a selection of arts, performance and technology events."
 
 
+DATA MySQL Table Model v1
+https://docs.google.com/spreadsheets/d/1MNkL_q5-TuOofP1I2CTyeHUhHP_usyXLPspzebv6qYg/edit?usp=sharing
+
+
+
